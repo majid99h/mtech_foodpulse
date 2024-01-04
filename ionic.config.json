@@ -1,0 +1,7 @@
+{
+  "name": "mtech_foodpulse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
